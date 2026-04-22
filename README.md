@@ -16,7 +16,7 @@ Over the last 12+ years, I’ve built and scaled ML systems that directly impact
 Built a production recommender system driving
 
 * Hybrid architecture (image + tabular data)
-* Continuous experimentation (A/B testing)
+* Continuous experimentation platform (A/B testing)
 * Optimized for Recall@K + business KPIs
 
 ---
@@ -35,11 +35,11 @@ Production monitoring for ML systems
 * Drift detection (features + predictions)
 * Automated retraining workflows
 * Business + model metrics alignment
-* A/B test platforms layers management
+  
 ---
 
 ## 🧰 Stack
-Python · PyTorch · TensorFlow · Airflow · Docker · GCP · Spark · PostgreSQL ·Redis  OpenCV
+Python · PyTorch · TensorFlow · Airflow · Docker · GCP · Spark · PostgreSQL · Redis · OpenCV
 
 ---
 ## 🤝 Contact
