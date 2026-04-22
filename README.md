@@ -1,16 +1,14 @@
 # Hi, I'm Oriel 👋
 
 I solve **high-impact business problems** using Machine Learning, AI, and data systems.
-
 Over the last 12+ years, I’ve built and scaled ML systems that directly impact revenue, cost, and operations — not just models.
 
 ---
-
 ## 🧠 What I actually do
 
 * Turn messy business problems into **scalable ML systems**
 * Own the full lifecycle: **data → modeling → deployment → monitoring**
-* Optimize for **real metrics** (revenue, cost, engagement)
+* Optimize for **real metrics** (revenue, cost, engagement, conversion)
 * Build systems that **keep working after deployment**
 
 
@@ -22,15 +20,14 @@ Built a production recommender system driving
 * Optimized for Recall@K + business KPIs
 
 ---
-
 ### 🔹 Credit Decisioning System
 Automated credit approval pipelines
 
 * Reduced approval costs by **50% YoY**
 * Reduced manual effort by **40%**
 * Integrated into real-time decision systems
----
 
+---
 ### 🔹 ML Observability & Retraining
 
 Production monitoring for ML systems
@@ -47,5 +44,5 @@ Python · PyTorch · TensorFlow · Airflow · Docker · GCP · Spark · PostgreS
 ---
 ## 🤝 Contact
 
-* LinkedIn: [your link]
+* LinkedIn: [https://www.linkedin.com/in/orielzambrano/?locale=en]
 * Email: [oristides@gmail.com](mailto:oristides@gmail.com)
