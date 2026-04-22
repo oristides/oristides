@@ -15,18 +15,15 @@ Over the last 12+ years, I’ve built and scaled ML systems that directly impact
 
 
 ### 🔹 Recommender System
-Built a production recommender system driving **35%+ of GMV**
+Built a production recommender system driving
 
 * Hybrid architecture (image + tabular data)
 * Continuous experimentation (A/B testing)
 * Optimized for Recall@K + business KPIs
 
-👉 [View Project](#)
-
 ---
 
 ### 🔹 Credit Decisioning System
-
 Automated credit approval pipelines
 
 * Reduced approval costs by **50% YoY**
@@ -41,7 +38,7 @@ Production monitoring for ML systems
 * Drift detection (features + predictions)
 * Automated retraining workflows
 * Business + model metrics alignment
-* a/b test platforms layers
+* A/B test platforms layers management
 ---
 
 ## 🧰 Stack
