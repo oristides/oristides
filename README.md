@@ -3,14 +3,17 @@
 <!--
 **oristides/oristides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I solve high-impact business problems using Machine Learning, AI, and data systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Over the last 12+ years, I’ve built and scaled ML systems that directly impact revenue, cost, and operations — not just models.
+
+🧠 What I actually do
+Turn messy business problems into scalable ML systems
+Own the full lifecycle: data → modeling → deployment → monitoring
+Optimize for real metrics (revenue, cost, engagement)
+Build systems that keep working after deployment
+
+
+https://github.com/oristides/splitwisecli
+
 -->
