@@ -1,7 +1,7 @@
 # Hi, I'm Oriel 👋
 
 I solve **high-impact business problems** using Machine Learning, AI, and data systems.
-Over the last 12+ years, I’ve built and scaled ML systems that directly impact revenue, cost, and operations.
+Over the last 12+ years, I’ve built and scaled ML and AI systems that directly impact revenue, cost, and operations.
 
 ---
 ## 🧠 What I actually do
@@ -10,6 +10,7 @@ Over the last 12+ years, I’ve built and scaled ML systems that directly impact
 * Own the full lifecycle: **data → modeling → deployment → monitoring**
 * Optimize for **real metrics** (revenue, cost, engagement, conversion)
 * Build systems that **keep working after deployment**
+* Let AI agents create the most workload for repetitive task
 
 
 ### 🔹 Recommender System
